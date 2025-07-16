@@ -1,5 +1,5 @@
 <!-- 👋 인사 & 소개 -->
-<h1 align="center">Wake up, Neo... 🟩</h1>
+<h1 align="center">Wake up, Write your codes..🟩</h1>
 <h3 align="center">I'm Jin 💻</h3>
 
 <!-- 🟢 매트릭스 배경 애니메이션 -->
@@ -8,7 +8,7 @@
 
 <!-- ⌨️ 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Wake+up+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock%2C+Jin." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Wake+up+Neo...;My+Name+Is+Jin.;Currently+In+SSAFY...;Knock+knock%2C." alt="Typing SVG" />
 </p>
 
 ---
