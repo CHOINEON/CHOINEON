@@ -3,9 +3,6 @@
 <h3 align="center">I'm Jin, a developer in the Matrix 💻</h3>
 
 <!-- 🟢 매트릭스 배경 애니메이션 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/Q8mY4SVTyT4hi/giphy.gif" width="80%" alt="matrix code animation">
-</p>
 
 ---
 
@@ -31,13 +28,13 @@
 
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOINEON&show_icons=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41)
 
 ---
 
 ### 🛰️ Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jin&style=flat-square&color=00FF41)
+![Visitor Count](https://komarev.com/ghpvc/?username=CHOINEON&style=flat-square&color=00FF41)
 
 ---
 
