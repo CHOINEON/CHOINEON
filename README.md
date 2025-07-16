@@ -29,12 +29,6 @@
 
 ---
 
-### 🛰️ Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=CHOINEON&style=flat-square&color=00FF41)
-
----
-
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
