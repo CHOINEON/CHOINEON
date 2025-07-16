@@ -35,7 +35,7 @@
 
 ---
 
-> 💬 “There is no spoon.” – The Matrix
+![](./profile-3d-contrib/profile-gren-animate.svg)
 
 <!--
 **CHOINEON/CHOINEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
