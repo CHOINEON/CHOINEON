@@ -1,6 +1,6 @@
 <!-- 👋 인사 & 소개 -->
 <h1 align="center">Wake up, Neo... 🟩</h1>
-<h3 align="center">I'm Jin, a developer in the Matrix 💻</h3>
+<h3 align="center">I'm Jin 💻</h3>
 
 <!-- 🟢 매트릭스 배경 애니메이션 -->
 
