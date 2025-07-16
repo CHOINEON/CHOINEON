@@ -1,6 +1,6 @@
 <!-- 👋 인사 & 소개 -->
-<h1 align="center">Wake up, Write your codes..🟩</h1>
-<h3 align="center">I'm Jin 💻</h3>
+<h1 align="center">I'm Jin 💻</h1>
+
 
 <!-- 🟢 매트릭스 배경 애니메이션 -->
 
