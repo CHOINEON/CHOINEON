@@ -1,6 +1,20 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm JIN</h1>
-<h3 align="center">Used to FE Engineer but currently interesed in several fields!</h3>
+<!-- 👋 인사 & 소개 -->
+<h1 align="center">Wake up, Neo... 🟩</h1>
+<h3 align="center">I'm Jin, a developer in the Matrix 💻</h3>
+
+<!-- 🟢 매트릭스 배경 애니메이션 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Q8mY4SVTyT4hi/giphy.gif" width="80%" alt="matrix code animation">
+</p>
+
+---
+
+<!-- ⌨️ 타이핑 애니메이션 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Wake+up+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock%2C+Jin." alt="Typing SVG" />
+</p>
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -13,15 +27,22 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🧪 GitHub Stats — Matrix Style
 
-![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin-dev&show_icons=true&theme=radical)
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin&show_icons=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin-dev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jaemin-dev&color=brightgreen)
+### 🛰️ Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jin&style=flat-square&color=00FF41)
+
+---
+
+> 💬 “There is no spoon.” – The Matrix
+
 <!--
 **CHOINEON/CHOINEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
