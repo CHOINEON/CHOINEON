@@ -23,8 +23,9 @@
 
 ### 🧪 GitHub Stats
 
+<!--
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOINEON&show_icons=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41)
 
 ---
