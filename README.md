@@ -32,9 +32,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" />
     </td>
     <td align="center">
-      <a href="https://ucndewit.tistory.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20my%20Tistory%20Blog-FF7100?style=for-the-badge&logo=blogger&logoColor=black" alt="Tistory Blog" />
-      </a>
+     <a href="https://ucndewit.tistory.com/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Visit%20my%20Tistory%20Blog-FF7100?style=for-the-badge&logo=https://tistory1.daumcdn.net/tistory_admin/static/manage/images/openGraph/opengraph.png&logoColor=white" 
+    alt="Tistory Blog" />
+</a>
+
       <br/><br/>
       <strong>📚 Come and check my latest upload!</strong>
     </td>
