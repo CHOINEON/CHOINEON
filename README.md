@@ -1,4 +1,3 @@
-<img width="1343" height="1026" alt="image" src="https://github.com/user-attachments/assets/02882941-b6a9-4272-b7b6-859a536740e6" />
 <!-- 🟢 매트릭스 배경 애니메이션 -->
 
 ---
