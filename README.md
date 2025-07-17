@@ -34,11 +34,9 @@
     <td align="center">
       <a href="https://ucndewit.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20my%20Tistory%20Blog-00FF41?style=for-the-badge&logo=blogger&logoColor=black" alt="Tistory Blog" />
-        
-
       </a>
       <br/><br/>
-      <strong>📚 Come and Check My Latest Upload.</strong>
+      <strong>📚 개발 일상과 공부 기록을 공유합니다.</strong>
     </td>
   </tr>
 </table>
