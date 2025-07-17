@@ -40,7 +40,7 @@
       <strong style="color: #00FF41;">📚 Come and Check My Latest Upload.</strong>
     </td>
     <td align="center" style="border: 2px solid #00FF41; padding: 16px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" />
+      <img src=<img src="https://media1.tenor.com/m/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif" width="150" />
     </td>
   </tr>
 </table>
