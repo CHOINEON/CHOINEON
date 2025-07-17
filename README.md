@@ -33,8 +33,7 @@
     </td>
     <td align="center">
       <a href="https://ucndewit.tistory.com/" target="_blank" style="display: inline-flex; align-items: center; gap: 6px;>
-
-  <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"> </a>
+    <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 </a>
       <br/><br/>
       <strong>📚 Come and Check My Latest Upload.</strong>
