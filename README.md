@@ -33,6 +33,7 @@
     </td>
     <td align="center">
       <a href="https://ucndewit.tistory.com/" target="_blank">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
         <img 
     src="https://img.shields.io/badge/Visit%20my%20Tistory%20Blog-FF7100?style=for-the-badge&logo=https://tistory1.daumcdn.net/tistory_admin/static/manage/images/openGraph/opengraph.png&logoColor=white" 
     alt="Tistory Blog" />
