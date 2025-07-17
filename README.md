@@ -32,7 +32,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" />
     </td>
     <td align="center">
-      <a href="https://ucndewit.tistory.com/" target="_blank" style="display: inline-flex; align-items: center; gap: 6px; border-line:red;>
+      <a href="https://ucndewit.tistory.com/" target="_blank" style="display: inline-flex; align-items: center; gap: 6px;>
   <!-- Badge -->
   <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 </a>
