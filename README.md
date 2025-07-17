@@ -33,7 +33,9 @@
     </td>
     <td align="center">
       <a href="https://ucndewit.tistory.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20my%20Tistory%20Blog-00FF41?style=for-the-badge&logo=blogger&logoColor=black" alt="Tistory Blog" />
+<!--         <img src="https://img.shields.io/badge/Visit%20my%20Tistory%20Blog-00FF41?style=for-the-badge&logo=blogger&logoColor=black" alt="Tistory Blog" /> -->
+        [<img src="https://tistory1.daumcdn.net/tistory_admin/static/manage/images/openGraph/opengraph.png" alt="Tistory" width="120"/>](https://www.tistory.com/)
+
       </a>
       <br/><br/>
       <strong>📚 Come and Check My Latest Upload.</strong>
