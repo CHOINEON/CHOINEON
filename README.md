@@ -32,12 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41)
 
 ---
-<div style="height: 4px; 
-             background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); 
-             border: none; 
-             margin: 20px 0;">
-</div>
-
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
