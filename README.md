@@ -24,6 +24,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+
 ### 🧪 GitHub Stats & 📚 Blog
 
 <table>
@@ -32,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" />
     </td>
     <td align="center">
-      <a href="https://your-tistory-blog.tistory.com" target="_blank">
+      <a href="https://ucndewit.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20my%20Tistory%20Blog-00FF41?style=for-the-badge&logo=blogger&logoColor=black" alt="Tistory Blog" />
       </a>
       <br/><br/>
@@ -40,6 +41,7 @@
     </td>
   </tr>
 </table>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
