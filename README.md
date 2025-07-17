@@ -18,6 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 ### 🧪 GitHub Stats
 
