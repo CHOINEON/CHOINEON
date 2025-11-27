@@ -33,9 +33,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOINEON&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" />
     </td>
     <td align="center" style="border: 2px solid #00FF41; padding: 16px;">
-      <a href="https://ucndewit.tistory.com/" target="_blank" style="display: inline-flex; align-items: center; gap: 6px;">
-        <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white">
-      </a>
+   <a href="https://velog.io/@velovelo/posts" target="_blank" style="display: inline-flex; align-items: center; gap: 6px;">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog 방문하기">
+  </a>
       <br/><br/>
       <strong style="color: #00FF41;">📚 Come and Check My Latest Upload.</strong>
     </td>
