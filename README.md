@@ -37,11 +37,11 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog 방문하기">
   </a>
       <br/><br/>
-      <strong style="color: #00FF41;">📚 Come and Check My Latest Upload.</strong>
+      <strong style="color: #00FF41;">📚 Check My Latest Upload.</strong>
     </td>
-    <td align="center" style="border: 2px solid #00FF41; padding: 16px;">
+    <!-- <td align="center" style="border: 2px solid #00FF41; padding: 16px;">
       <img src=<img src="https://media1.tenor.com/m/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif" width="150" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
