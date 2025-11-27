@@ -4,7 +4,7 @@
 
 <!-- ⌨️ 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=CURRENTLY+IN+SSAFY...;*Knock+Knock%2.." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=CURRENTLY+IN+SSAFY...;*Knock+Knock.." alt="Typing SVG" />
 </p>
 
 ---
