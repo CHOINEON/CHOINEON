@@ -35,23 +35,5 @@
 
 ---
 
-### 🧪 VELOG
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://velog.io/@velovelo/posts" target="_blank" style="display: inline-flex; align-items: center; gap: 6px;">
-          <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog 방문하기">
-        </a>
-        <br/><br/>
-        <strong style="color: #00FF41;">📚 Check My Latest Upload.</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <p align="center">
   </p>
