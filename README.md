@@ -20,7 +20,7 @@
 
 
 ---
-### 📚 VELOG
+### 🧪 VELOG
 
 <div align="center">
   <table>
